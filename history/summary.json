@@ -76,19 +76,19 @@
     "url": "http://test.banescosegurosonline.com/ibProfile/authentication/loginProcess",
     "icon": "https://favicons.githubusercontent.com/test.banescosegurosonline.com",
     "slug": "test-banesco",
-    "status": "down",
-    "uptime": "0.44%",
-    "uptimeDay": "0.44%",
-    "uptimeWeek": "0.44%",
-    "uptimeMonth": "0.44%",
-    "uptimeYear": "0.44%",
-    "time": 276,
-    "timeDay": 276,
-    "timeWeek": 276,
-    "timeMonth": 276,
-    "timeYear": 276,
+    "status": "up",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 925,
+    "timeDay": 925,
+    "timeWeek": 925,
+    "timeMonth": 925,
+    "timeYear": 925,
     "dailyMinutesDown": {
-      "2022-02-06": 4
+      "2022-02-06": 130
     }
   }
 ]

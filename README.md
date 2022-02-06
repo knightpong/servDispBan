@@ -1,4 +1,4 @@
-# [📈 Live Status](https://Luis Rodrigues.github.io/upptime): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://knightpong.github.io/upptime): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Luis Rodrigues](https://Luis Rodrigues.github.io/upptime), powered by [Upptime](https://github.com/upptime/upptime).
 

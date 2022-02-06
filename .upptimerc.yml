@@ -14,7 +14,7 @@ sites:
   - name: Test Banesco
     url: http://test.banescosegurosonline.com/ibProfile/authentication/loginProcess
      
-  assigness:
+ assigness:
   - knightpong
 
 status-website:

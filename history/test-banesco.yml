@@ -1,7 +1,7 @@
 url: http://test.banescosegurosonline.com/ibProfile/authentication/loginProcess
-status: up
-code: 200
-responseTime: 135
-lastUpdated: 2022-02-06T23:00:41.593Z
+status: down
+code: 503
+responseTime: 501
+lastUpdated: 2022-02-07T02:17:51.114Z
 startTime: Sun Feb 06 2022 10:07:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

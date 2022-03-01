@@ -22,9 +22,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 195,
     "timeMonth": 217,
     "timeYear": 217,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -77,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/test.banescosegurosonline.com",
     "slug": "test-banesco",
     "status": "down",
-    "uptime": "46.38%",
-    "uptimeDay": "6.01%",
+    "uptime": "44.59%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "25.19%",
-    "uptimeMonth": "46.38%",
-    "uptimeYear": "46.38%",
+    "uptimeMonth": "44.59%",
+    "uptimeYear": "44.59%",
     "time": 720,
-    "timeDay": 190,
+    "timeDay": 120,
     "timeWeek": 679,
     "timeMonth": 720,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2022-03-01": 65,
+      "2022-03-01": 1373,
       "2022-02-28": 1288,
       "2022-02-27": 604,
       "2022-02-26": 755,

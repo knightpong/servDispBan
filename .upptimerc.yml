@@ -11,8 +11,8 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  #- name: Test Banesco
-   # url: http://test.banescosegurosonline.com/ibProfile/authentication/loginProcess
+  - name: Test Banesco
+    url: http://test.banescosegurosonline.com/ibProfile/authentication/loginProcess
      
 assigness:
   - knightpong
